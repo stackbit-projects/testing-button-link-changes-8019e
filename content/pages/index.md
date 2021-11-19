@@ -16,7 +16,7 @@ sections:
       - type: Button
         label: Get Started
         url: /
-        style: link
+        style: primary
       - type: Button
         label: Learn More
         url: /
